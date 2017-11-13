@@ -1,2 +1,4 @@
 # bard_cat
-A web scraper for the Talking Book Library.
+Backend for Talking Book Catalog. Including a web scraper service, database and api.
+
+API End Points
