@@ -7,10 +7,10 @@ Tech Stack:
 Python Flask
 PostgreSQL
 
-Instalation:
+Installation:
 Clone this repository.
 In the terminal type "CreateDB bard_cat".
-Optional make a virtual envierment by entring "mkvirtualenv bard_cat" in the terminal.
+Optional make a virtual environment by entering "mkvirtualenv bard_cat" in the terminal.
 In the terminal type "pip install -r requirements.txt".
 "python manage.py db upgrade"
 
